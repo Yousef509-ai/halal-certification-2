@@ -24,6 +24,6 @@
     </style>
 </head>
 <body>
-    <img src="image4.png" alt="Blockchain Halal Certification Infographic">
+    <img src="image.4.webp" alt="Blockchain Halal Certification Infographic">
 </body>
 </html>
